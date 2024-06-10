@@ -11,4 +11,5 @@ This tree map contains position of all industry professionals I have interacted 
 ## Job Applications 
 The bar graph was to check on job positions that I have focused on time.
 
+## Dashboard
 ![alt text](https://github.com/PranjaliD11/LinkedInVisualization/blob/main/Dashboard.png)
